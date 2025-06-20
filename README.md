@@ -1,2 +1,3 @@
-# Bouy
-Logbook is a centralized logging service for local applications, designed to collect, store, and display logs from multiple self-hosted projects in real time.
+# Logbook
+
+**Logbook** is a lightweight, self-hosted logging system built to centralize logs from multiple applications running on the same server or network. Logbook enables real-time monitoring, structured log storage, and optional external access from a personal PC or dashboard.
